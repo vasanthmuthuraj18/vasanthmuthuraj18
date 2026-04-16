@@ -1,6 +1,7 @@
 # Hi, I'm MANIK VASANTH M S 👋
 
-### 🧪 M.Sc Chemistry Graduate (2022- 2024 Batch) 
+### 🧪 M.Sc Chemistry Graduate | Specialized Techniques & Lab reasearch**
+---
 
 ## 🛠 SKILLS & EXPERTISE
 - **B.Sc.B.Ed Training:**
