@@ -3,7 +3,7 @@
 ### 🧪 M.Sc Chemistry Graduate (2022- 2024 Batch) 
 
 ## 🛠 SKILLS & EXPERTISE
-- **B.Ed Training:**
+- **B.Sc.B.Ed Training:**
                      After completing my B.Ed., I worked as a trainee teacher for 16 weeks at a government boys higher secondary school, Natham, Dindigul District, Tamil Nadu, India.
 - **Analytical Techniques:**
                      Titration, Spectroscopy, Chromatography, Wet chemistry.
@@ -22,9 +22,8 @@
 - **HSC** | 2017-2018 | CGPA : 4.7 / 10
 - **SSLC** | 2015-2016 | CGPA : 8.64 / 10
 
-##**📄 My Resume**
-=========
-* View/Download:** [Click Here to View My Resume](https://github.com/vasanthmuthuraj18/Resume/blob/main/MANIK%20VASANTH%20M%20S%20resume.pdf)
+##**📄 MY RESUME**
+- **View/Download:** [Click Here to View My Resume](https://github.com/vasanthmuthuraj18/Resume/blob/main/MANIK%20VASANTH%20M%20S%20resume.pdf)
 
 ## 📫 CONNECT WITH ME
 - **E-Mail:** [vasanthmuthuraj18@gmail.com]
