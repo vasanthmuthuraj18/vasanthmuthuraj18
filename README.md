@@ -1,4 +1,4 @@
-# Hi, I'm Manik Vasanth! 👋
+# Hi, I'm MANIK VASANTH M S 👋
 
 ### 🧪 M.Sc Chemistry Graduate (2022- 2024 Batch) 
 
