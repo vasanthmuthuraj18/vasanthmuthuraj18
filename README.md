@@ -24,7 +24,7 @@
 - **SSLC** | 2015-2016 | CGPA : 8.64 / 10
 
 ##**📄 MY RESUME**
-- **View/Download:** [Click Here to View My Resume](https://github.com/vasanthmuthuraj18/Resume/blob/main/MANIK%20VASANTH%20M%20S%20resume.pdf)
+- **View/Download:** [Click Here to View My Resume](https://github.com/vasanthmuthuraj18/Resume/blob/main/Vasanth_Resume.pdf)
 
 ## 📫 CONNECT WITH ME
 - **E-Mail:** [vasanthmuthuraj18@gmail.com]
